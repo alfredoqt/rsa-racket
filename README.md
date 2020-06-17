@@ -35,7 +35,7 @@ Reference code: https://gist.github.com/JonCooperWorks/5314103
 
 ![Screenshot_2](https://user-images.githubusercontent.com/22597425/84837995-fa0e0c00-affe-11ea-9cc9-1899bcb1007d.png)
 
-#### Here is a brief explanation of the methods used in the program "rsa.rkt". For further understanding check the code in "rsa.rkt".
+#### Here is a brief explanation of the methods used in the program "rsa.rkt". For further understanding check the code in "rsa.rkt", functions are made also to use in a separate way.
 
 ![methods1](https://user-images.githubusercontent.com/22597425/84838784-eb285900-b000-11ea-8b14-3160c083ddfc.png)
 
