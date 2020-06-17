@@ -1,5 +1,10 @@
 # RSA cipher of text files implemented in Racket
 
+## Team members
+- Emiliano Peredo
+- Alfredo Quintero
+- Raziel Martínez
+
 Reference code: https://gist.github.com/JonCooperWorks/5314103
 
 ## Steps required for the implementation based on the RSA algorithm:
