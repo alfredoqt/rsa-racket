@@ -6,8 +6,8 @@ Reference code: https://gist.github.com/JonCooperWorks/5314103
 
 ### Private and public keys generation
 
-#### 1) Obtain *n = p * q*, where p and q are prime numbers. 
-#### 2) Obtain *phi = (p-1) * (q-1)*, where phi is the number of coprime numbers of p*q.
+#### 1) Obtain *n = p * q*, where p and q are prime numbers. Note: n is your max number that you can cipher, so try always to generate n with big prime numbers.
+#### 2) Obtain *phi = (p-1) * (q-1)*, where phi is the number of coprime numbers of p*q. 
 #### 3) Obtain *e* where *1<e<phi* and is coprime to *phi*.
 #### 4) Obtain d which is the multiplicative inverse of (e mod phi).
 
